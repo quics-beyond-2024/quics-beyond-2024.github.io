@@ -1,20 +1,22 @@
 ---
 # Name of the organizer
-name: Organizer Jane Doe
+name: Xiaodi Wu
 
 # Link to the organizer's webpage
-webpage: https://jane.doe
+webpage: https://www.cs.umd.edu/~xwu/
 
 # Primary affiliation
-affil: Buzz University
+affil: University of Maryland, College Park
 # Link to the primary affiliation
-affil_link: https://buzz.edu
+affil_link: https://umd.edu/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: jane.jpg
+img: xwu.jpg
 
 # Secondary affiliation
-affil2: BuzzFizz Corp
+#affil2: BuzzFizz Corp
 # Link to the secondary affiliation
-affil2_link: https://buzzfizz.corp
+#affil2_link: https://buzzfizz.corp
+
+sequence_id: 0
 ---
