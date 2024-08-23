@@ -10,4 +10,6 @@ title: Opening remarks
 
 # Time of the event
 time: 0900 - 0915
+
+img: jiaqil.webp
 ---

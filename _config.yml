@@ -39,11 +39,12 @@ header_pages:
 - index.md
 - speakers.md
 - schedule.md
-- organizers.md
+- logistics.md
+- registration.md
+#- organizers.md
 #- callforpapers.md
 #- papers.md
-- locations.md
-- contactus.md
+#- contactus.md
 
 # # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
 # masthead: assets/img/banner.jpg
@@ -61,6 +62,7 @@ last_updated: true
 # To turn off any of these collections, just set "output" to "false"
 collections:
   speakers:
+    sort_by: sequence_id
     output: true
   organizers:
     sort_by: sequence_id
@@ -71,6 +73,9 @@ collections:
   papers:
     sort_by: sequence_id
     output: false
+  sponsors:
+    sort_by: sequence_id
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
