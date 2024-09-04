@@ -1,5 +1,5 @@
 ---
-sequence_id: 1010
+sequence_id: b010
 name: Yuan Liu
 webpage: https://ece.ncsu.edu/people/yliu335/
 
@@ -8,5 +8,3 @@ affil_link: https://www.ncsu.edu/
 
 img: yuanl.jpg
 ---
-
-Talk title TBD

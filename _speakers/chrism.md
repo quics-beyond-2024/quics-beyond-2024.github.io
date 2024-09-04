@@ -1,5 +1,5 @@
 ---
-sequence_id: 0060
+sequence_id: a060
 name: Christopher Monroe
 webpage: https://ece.duke.edu/people/christopher-monroe/
 
@@ -10,5 +10,3 @@ img: chrism.jpg
 # affil2: BuzzFizz Corp
 # affil2_link: https://buzzfizz.corp
 ---
-
-Talk title TBD

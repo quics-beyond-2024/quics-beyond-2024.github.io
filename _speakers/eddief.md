@@ -1,5 +1,5 @@
 ---
-sequence_id: 0070
+sequence_id: a070
 name: Edward Farhi
 webpage: https://physics.mit.edu/faculty/edward-farhi/
 
@@ -10,5 +10,3 @@ img: eddief.jpg
 # affil2: BuzzFizz Corp
 # affil2_link: https://buzzfizz.corp
 ---
-
-Talk title TBD

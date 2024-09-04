@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Beyond Gate Model (BGM) Workshop
+title: Advancing Quantum Computation Beyond Gate-Model (BGM)
 email: pickspeng@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a website for a workshop on quantum computing beyond gate model hosted at the University of Maryland, College Park.
+  This is a website for a workshop on advanding quantum computation beyond gate-model hosted at the University of Maryland, College Park.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: JointQuICS

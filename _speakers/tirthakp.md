@@ -1,5 +1,5 @@
 ---
-sequence_id: 1030
+sequence_id: b030
 name: Tirthak Patel
 webpage: https://www.tirthakpatel.com/
 
@@ -8,5 +8,3 @@ affil_link: https://www.rice.edu/
 
 img: tirthakp.webp
 ---
-
-Talk title TBD

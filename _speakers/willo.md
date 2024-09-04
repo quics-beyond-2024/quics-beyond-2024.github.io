@@ -1,5 +1,5 @@
 ---
-sequence_id: 0050
+sequence_id: a050
 name: William Oliver
 webpage: https://equs.mit.edu/william-d-oliver/
 
@@ -10,5 +10,3 @@ img: willo.jpg
 # affil2: BuzzFizz Corp
 # affil2_link: https://buzzfizz.corp
 ---
-
-Talk title TBD

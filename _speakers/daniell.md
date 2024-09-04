@@ -1,5 +1,5 @@
 ---
-sequence_id: 0020
+sequence_id: a020
 name: Daniel Lidar
 webpage: https://viterbi.usc.edu/directory/faculty/Lidar/Daniel
 
@@ -10,5 +10,3 @@ img: daniell.jpg
 # affil2: BuzzFizz Corp
 # affil2_link: https://buzzfizz.corp
 ---
-
-Talk title TBD

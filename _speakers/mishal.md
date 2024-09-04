@@ -1,5 +1,5 @@
 ---
-sequence_id: 0040
+sequence_id: a040
 name: Mikhail Lukin
 webpage: https://www.physics.harvard.edu/people/facpages/lukin
 
@@ -10,5 +10,3 @@ img: mishal.png
 # affil2: BuzzFizz Corp
 # affil2_link: https://buzzfizz.corp
 ---
-
-Talk title TBD

@@ -1,5 +1,5 @@
 ---
-sequence_id: 1040
+sequence_id: b080
 name: Ravi Naik
 webpage: https://crd.lbl.gov/divisions/amcr/computational-science-dept/quist/quist-staff/ravi-naik/
 
@@ -10,5 +10,3 @@ img: ravin.jpg
 affil2: Lawrence Berkeley National Laboratory
 affil2_link: https://www.lbl.gov/
 ---
-
-Talk title TBD

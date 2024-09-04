@@ -1,5 +1,5 @@
 ---
-sequence_id: 0110
+sequence_id: a110
 name: Alexey Gorshkov
 webpage: https://jqi.umd.edu/people/alexey-gorshkov
 
@@ -10,5 +10,3 @@ img: alexeyg.jpg
 affil2: University of Maryland, College Park
 affil2_link: https://umd.edu/
 ---
-
-Talk title TBD

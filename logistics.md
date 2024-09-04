@@ -8,7 +8,7 @@ permalink: /logistics/
 
 <br />
 
-<big>Venue:</big>
+<big><b>Venue:</b></big>
 
 Room: Charles Carroll 2203K
 
@@ -18,7 +18,7 @@ Address: 3972 Campus Dr, College Park, MD 20742
 
 <br />
 
-<big>Host: Joint Center for Quantum Information and Computer Science (QuICS)</big>
+<big><b>Host:</b> Joint Center for Quantum Information and Computer Science (QuICS)</big>
 
 Room: 3100A
 
@@ -28,7 +28,7 @@ Address: 4254 Stadium Dr, College Park, MD 20740
 
 <br />
 
-<big>Nearby hotels:</big>
+<big><b>Nearby hotels:</b></big>
 
 [The Hotel at The University of Maryland](https://www.thehotelumd.com/)
 
