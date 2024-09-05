@@ -16,13 +16,13 @@ layout: default
 	  				<table>
 						<tr>
 							<td align="center">
-								<h5><b>Time</b></h5>
+								<h4><b>Time</b></h4>
 							</td>
 							<td align="center">
-								<h5><b>Speaker</b></h5>
+								<h4><b>Speaker</b></h4>
 							</td>
 							<td align="center">
-								<h5><b>Talk Details</b></h5>
+								<h4><b>Talk Details</b></h4>
 							</td>
 						</tr>
 				{% else %}
@@ -31,14 +31,14 @@ layout: default
 			{% else %}
 				<tr>
 					<td align="center">
-						<i>{{ scheduleitem.day }},</i> {{ scheduleitem.time }}
+						<i>{{ scheduleitem.day }}</i> <br />
+						{{ scheduleitem.time }}
 					</td>
 					<td align="center">
 						<div class="col-xs-12">
 							{% if scheduleitem.noimg %}
 								<b>{{ scheduleitem.speaker }}</b>
 							{% else %}
-								<p align="center">
 									{% if scheduleitem.img %}
 										<img class="people-pic" src="{{ scheduleitem.img | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
 									{% else %}
@@ -46,18 +46,26 @@ layout: default
 									{% endif %}
 									<br />
 								<!-- scheduleitem name (link to webpage if provided) -->
+								{% if scheduleitem.bio %}
+									<details>
+									<summary style="display:list-item;">
+								{% endif %}
 								{% if scheduleitem.webpage %}
 									<a href="{{ scheduleitem.webpage }}" target="_blank"><b>{{ scheduleitem.speaker }}</b></a>
 								{% else %}
 									<b>{{ scheduleitem.speaker }}</b>
 								{% endif %}
-								</p>
+								{% if scheduleitem.bio %}
+									</summary>
+									{{ scheduleitem.bio }}
+									</details>
+								{% endif %}
 							{% endif %}
 						</div>
 					</td>
 					<td align="center">
 						<div class="col-xs-12">
-							<b><big>{{ scheduleitem.title }}</big></b>
+							<i><big>{{ scheduleitem.title }}</big></i>
 							<br />
 							{% if scheduleitem.abstract %}
 								<details>

@@ -73,7 +73,9 @@ layout: home
 
 </article>
 
-<big>For more details of the talks, please refer to the [Speakers Page](/speakers/).</big>
+<big>For more details of the talks, please refer to the [Schedule Page](/schedule/).</big>
+
+<br />
 
 ## Organizing Committee
 

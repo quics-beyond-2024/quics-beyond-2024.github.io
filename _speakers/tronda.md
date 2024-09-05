@@ -6,5 +6,6 @@ webpage:
 affil: Google Quantum AI
 affil_link: https://quantumai.google/
 
-img: 
+img: tronda.jpg
+
 ---

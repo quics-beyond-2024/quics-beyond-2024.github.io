@@ -6,7 +6,7 @@ sequence_id: a001
 speaker: Workshop organizers
 
 # Title of the event
-title: Opening remarks and logistics
+title: <b>Opening remarks and logistics<b>
 
 # Time of the event
 day: Monday

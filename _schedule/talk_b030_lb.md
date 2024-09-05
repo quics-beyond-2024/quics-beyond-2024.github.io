@@ -1,7 +1,7 @@
 ---
 sequence_id: b030
 
-title: Lunch Break
+title: <b>Lunch Break</b>
 
 day: Tuesday
 time: 12:15 pm ~ 1:45 pm
