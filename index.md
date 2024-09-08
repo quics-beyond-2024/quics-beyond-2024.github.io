@@ -25,7 +25,7 @@ layout: home
 
 <big>To achieve this, we have invited speakers to present innovative approaches for controlling and operating quantum devices beyond the gate model, as well as to explore the synergy between analog and digital paradigms to inspire new quantum applications. We anticipate that this workshop will also stimulate dialogue among theoretical and experimental physicists, mathematicians, computer scientists, and domain experts within this highly interdisciplinary field.</big>
 
-<big>Please refer to the [registration page](/registeration/) if you are interested in attending. Please note that there is NO registration fee. However registration and confirmation is required to attend the workshop as we have limited capacities. </big>
+<big>Please refer to the [registration page](/registeration/) if you are interested in attending. Please note that there is NO registration fee. However, registration and confirmation are required to attend the workshop due to limited capacity. </big>
 
 <big>Have any question about the workshop? Please contact the <a href="#org" >organizers</a>.</big> 
 
