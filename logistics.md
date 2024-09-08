@@ -20,7 +20,7 @@ Address: 3972 Campus Dr, College Park, MD 20742
 
 <big><b>Host:</b> Joint Center for Quantum Information and Computer Science (QuICS)</big>
 
-Room: 3100A  -- also where the dedicated poster session will hold 
+Room: 3100A  -- also where the dedicated poster session will hold. 
 
 Building: Atlantic Building
 
@@ -33,6 +33,8 @@ Address: 4254 Stadium Dr, College Park, MD 20740
 Light snacks and coffee/beverages will be served during the breaks. Lunch will also be provided. 
 
 Stamp Student Union also has a food court. More restaurant options can be found along the Baltimore Ave and around. 
+
+<br />
 
 ### Nearby hotels: 
 
