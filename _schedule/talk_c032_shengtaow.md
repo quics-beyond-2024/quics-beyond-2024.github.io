@@ -1,10 +1,10 @@
 ---
 sequence_id: c032
 
-speaker: TBD
+speaker: Sheng-Tao Wang
 webpage: 
 
-img: 
+img: shengtaow.jpg
 
 title: TBD
 

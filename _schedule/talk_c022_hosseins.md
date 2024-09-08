@@ -1,10 +1,10 @@
 ---
 sequence_id: c022
 
-speaker: TBD
+speaker: Hossein Sadeghi
 webpage: 
 
-img: 
+img: hosseins.jpg
 
 title: TBD
 
