@@ -8,6 +8,7 @@ layout: home
 ---
 
 #### Welcome to the 1st workshop on Advancing Quantum Computation Beyond Gate-Model (BGM2024)!
+### October 7 to October 9, 2024 at the University of Maryland, College Park
 
 <br />
 
