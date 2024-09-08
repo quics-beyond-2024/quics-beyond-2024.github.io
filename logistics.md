@@ -4,11 +4,11 @@ title: Logistics
 permalink: /logistics/
 ---
 
-### Locations
+### Locations & Hours
 
 <br />
 
-<big><b>Venue:</b></big>
+<big><b>Venue: open 8:30am to 5pm on each day </b></big>
 
 Room: Charles Carroll 2203K
 
@@ -20,7 +20,7 @@ Address: 3972 Campus Dr, College Park, MD 20742
 
 <big><b>Host:</b> Joint Center for Quantum Information and Computer Science (QuICS)</big>
 
-Room: 3100A
+Room: 3100A  -- also where the dedicated poster session will hold 
 
 Building: Atlantic Building
 
@@ -28,7 +28,13 @@ Address: 4254 Stadium Dr, College Park, MD 20740
 
 <br />
 
-<big><b>Nearby hotels:</b></big>
+### Food: 
+
+Light snacks and coffee/beverages will be served during the breaks. Lunch will also be provided. 
+
+Stamp Student Union also has a food court. More restaurant options can be found along the Baltimore Ave and around. 
+
+### Nearby hotels: 
 
 [The Hotel at The University of Maryland](https://www.thehotelumd.com/)
 
