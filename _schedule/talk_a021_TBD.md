@@ -1,5 +1,5 @@
 ---
-sequence_id: a021
+sequence_id: a031
 
 speaker: TBD
 
@@ -10,7 +10,7 @@ title: TBD
 abstract: TBD
 
 day: Monday
-time: 10:50 am ~ 11:40 am
+time: 1:55 pm ~ 2:35 pm
 
 img: 
 ---
