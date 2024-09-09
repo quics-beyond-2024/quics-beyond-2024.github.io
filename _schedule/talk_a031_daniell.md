@@ -1,5 +1,5 @@
 ---
-sequence_id: a031
+sequence_id: a021
 
 speaker: Daniel Lidar
 webpage: https://viterbi.usc.edu/directory/faculty/Lidar/Daniel
@@ -11,5 +11,5 @@ title: TBD
 abstract: TBD
 
 day: Monday
-time: 1:45 pm ~ 2:35 pm
+time: 10:50 am ~ 11:40 am
 ---
