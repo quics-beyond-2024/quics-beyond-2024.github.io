@@ -1,0 +1,35 @@
+<article class="post">
+
+    <div class = "post-content">
+      {% for sponsor in site.sponsors %}
+            {% if sponsor.structure %}
+              {% if sponsor.structure == "start" %}
+                    <h3> <b> {{ sponsor.type }} </b> </h3>
+                    <table style="border-collapse: collapse; border: none;">
+              {% else %}
+                  </table>
+              {% endif %}
+          {% else %}
+              <td style="border: none;">
+                  <div class="col-xs-12">
+                      <p align="center">
+                          {% if sponsor.img %}
+                              <img class="image" height="100" src="{{ sponsor.img | prepend: '/assets/img/sponsors/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+                          {% else %}
+                              <img class="image" height="100" src="{{ 'avatar.jpg' | prepend: '/assets/img/sponsors/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+                          {% endif %}
+                          <br>
+                          <!-- sponsor name (link to webpage if provided) -->
+                          {% if sponsor.webpage %}
+                              <a href="{{ sponsor.webpage }}" target="_blank"><b>{{ sponsor.name }}</b></a>
+                          {% else %}
+                              {{ sponsor.name }}
+                          {% endif %}
+                      </p>
+                  </div>
+              </td>
+          {% endif %}
+      {% endfor %}
+    </div>
+  
+  </article>

@@ -31,56 +31,7 @@ layout: home
 
 ### Speakers
 
-<article class="post">
-
-  <div class = "post-content">
-	  <table style="border-collapse: collapse; border: none;">
-	  	{% for speaker in site.speakers %}
-			{% assign remainder = forloop.index | modulo: 3 %}
-			{% if remainder == 1  %}
-		    	<tr style="border: none;">
-			{% endif %}
-			<td style="border: none;">
-				<div class="col-xs-12">
-					<p align="center">
-						{% if speaker.img %}
-							<img class="people-pic" src="{{ speaker.img | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-						{% else %}
-							<img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-						{% endif %}
-						<br>
-						<!-- speaker name (link to webpage if provided) -->
-						{% if speaker.webpage %}
-							<a href="{{ speaker.webpage }}" target="_blank"><b>{{ speaker.name }}</b></a>
-						{% else %}
-							<b>{{ speaker.name }}</b>
-						{% endif %}
-						<br>
-						<!-- speaker affiliation (if provided) -->
-						{% if speaker.affil_link %}
-							<a href="{{ speaker.affil_link }}" target="_blank">{{ speaker.affil }}</a>
-						{% else %}
-							{{ speaker.affil }}
-						{% endif %}
-						<!-- Additional speaker affiliation (if provided) -->
-						{% if speaker.affil2_link %}
-							<br>
-							<a href="{{ speaker.affil2_link }}" target="_blank">{{ speaker.affil2 }}</a>
-						{% elsif speaker.affil2 %}
-							<br>
-							{{ speaker.affil2 }}
-						{% endif %}
-					</p>
-				</div>
-			</td>
-			{% if forloop.last  or  remainder == 0  %}
-				</tr>
-			{% endif %}
-	    {% endfor %}
-	  </table>
-  </div>
-
-</article>
+{% include speaker_display.html %}
 
 <big>For more details of the talks, please refer to the [Schedule Page](/schedule/).</big>
 
@@ -88,77 +39,12 @@ layout: home
 
 ### Organizing Committee
 
-<article class="post">
+{% include organizer_display.html %}
 
-  <div class = "post-content" id = "org" >
-	  <table style="border-collapse: collapse; border: none;">
-	  	{% for organizer in site.organizers %}
-			<td style="border: none;">
-				<div class="col-xs-12">
-					<p align="center">
-						{% if organizer.img %}
-							<img class="people-pic" src="{{ organizer.img | prepend: '/assets/img/organizers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-						{% else %}
-							<img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/organizers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-						{% endif %}
-						<br>
-						<!-- organizer name (link to webpage if provided) -->
-						{% if organizer.webpage %}
-							<a href="{{ organizer.webpage }}" target="_blank"><b>{{ organizer.name }}</b></a>
-						{% else %}
-							<b>{{ organizer.name }}</b>
-						{% endif %}
-						<br>
-						<!-- organizer affiliation (if provided) -->
-						{% if organizer.affil_link %}
-							<a href="{{ organizer.affil_link }}" target="_blank">{{ organizer.affil }}</a>
-						{% else %}
-							{{ organizer.affil }}
-						{% endif %}
-						<!-- Additional organizer affiliation (if provided) -->
-						{% if organizer.affil2_link %}
-							<br>
-							<a href="{{ organizer.affil2_link }}" target="_blank">{{ organizer.affil2 }}</a>
-						{% elsif organizer.affil2 %}
-							<br>
-							{{ organizer.affil2 }}
-						{% endif %}
-					</p>
-				</div>
-			</td>
-	    {% endfor %}
-	  </table>
-  </div>
-
-</article>
+<br />
 
 ### Sponsors
 
-<article class="post">
+{% include sponsor_display.html %}
 
-  <div class = "post-content">
-	  <table style="border-collapse: collapse; border: none;">
-	  	{% for sponsor in site.sponsors %}
-			<td style="border: none;">
-				<div class="col-xs-12">
-					<p align="center">
-						{% if sponsor.img %}
-							<img class="image" height="100" src="{{ sponsor.img | prepend: '/assets/img/sponsors/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-						{% else %}
-							<img class="image" height="100" src="{{ 'avatar.jpg' | prepend: '/assets/img/sponsors/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-						{% endif %}
-						<br>
-						<!-- sponsor name (link to webpage if provided) -->
-						{% if sponsor.webpage %}
-							<a href="{{ sponsor.webpage }}" target="_blank"><b>{{ sponsor.name }}</b></a>
-						{% else %}
-							{{ sponsor.name }}
-						{% endif %}
-					</p>
-				</div>
-			</td>
-	    {% endfor %}
-	  </table>
-  </div>
-
-</article>
+<big>For details of the spondor types, please refer to the [Sponsor Page](/sponsors/).</big>
