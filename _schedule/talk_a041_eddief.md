@@ -6,7 +6,7 @@ webpage: https://physics.mit.edu/faculty/edward-farhi/
 
 img: eddief.jpg
 
-title: An update on the Quantum Approximate Optimization Algorithm
+title: An Update on the Quantum Approximate Optimization Algorithm
 
 bio: Edward Farhi is a particle physicist who turned to quantum computing in the late 1990’s.  HIs main interest is quantum algorithms.  Farhi was the Director of Theoretical Physics at MIT for 12 years and officially retired from MIT in 2018.  He is a Principal Research Scientist at Google.  
 
