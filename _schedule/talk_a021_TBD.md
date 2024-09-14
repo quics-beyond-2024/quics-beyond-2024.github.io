@@ -10,7 +10,7 @@ title: TBD
 abstract: TBD
 
 day: Monday
-time: 1:55 pm ~ 2:35 pm
+time: 1:45 pm ~ 2:35 pm
 
 img: 
 ---

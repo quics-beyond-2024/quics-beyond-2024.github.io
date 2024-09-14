@@ -6,7 +6,7 @@ webpage:
 
 img: davidh.jpg
 
-title: Characterizing the noise in Quantinuum’s quantum computers
+title: Characterizing the Noise in Quantinuum’s Quantum Computers
 
 abstract: Quantinuum has constructed two generations of gate-based digital quantum computers, building a sophisticated error model. In this talk I will go over our methods for quantum characterization, validation, and verification (QCVV), giving a suite of measurements for individual operations, holistic metrics, and applications. These measurements have direct implications on near-term applications, pointing toward where upgrade efforts should be concentrated. More recently, we have begun QCVV efforts on the logical level, and I will briefly mention some preliminary results.
 
