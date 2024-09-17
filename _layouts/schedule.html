@@ -60,6 +60,29 @@ layout: default
 									{{ scheduleitem.bio }}
 									</details>
 								{% endif %}
+								{% if scheduleitem.speaker2 %}
+									{% if scheduleitem.img2 %}
+											<img class="people-pic" src="{{ scheduleitem.img2 | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+										{% else %}
+											<img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+										{% endif %}
+										<br />
+									<!-- scheduleitem name (link to webpage if provided) -->
+									{% if scheduleitem.bio2 %}
+										<details>
+										<summary style="display:list-item;">
+									{% endif %}
+									{% if scheduleitem.webpage2 %}
+										<a href="{{ scheduleitem.webpage2 }}" target="_blank"><b>{{ scheduleitem.speaker2 }}</b></a>
+									{% else %}
+										<b>{{ scheduleitem.speaker2 }}</b>
+									{% endif %}
+									{% if scheduleitem.bio2 %}
+										</summary>
+										{{ scheduleitem.bio2 }}
+										</details>
+									{% endif %}
+								{% endif %}
 							{% endif %}
 						</div>
 					</td>

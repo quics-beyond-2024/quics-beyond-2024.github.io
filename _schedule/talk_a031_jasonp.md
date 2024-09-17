@@ -1,9 +1,9 @@
 ---
 sequence_id: a031
 
-speaker: TBD
+speaker: Jason Petta
 
-webpage: 
+webpage: https://en.wikipedia.org/wiki/Jason_Pettacd
 
 title: TBD
 
@@ -12,5 +12,5 @@ abstract: TBD
 day: Monday
 time: 1:45 pm ~ 2:35 pm
 
-img: 
+img: jasonp.jpg
 ---

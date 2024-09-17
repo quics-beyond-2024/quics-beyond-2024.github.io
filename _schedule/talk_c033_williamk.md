@@ -1,7 +1,7 @@
 ---
-sequence_id: c031
+sequence_id: c033
 
-speaker: TBD
+speaker: William Kindel
 webpage: 
 
 img: 
@@ -11,5 +11,5 @@ title: TBD
 abstract: TBD
 
 day: Wednesday
-time: 1:45 pm ~ 2:35 pm
+time: 3:15 pm ~ 3:45 pm
 ---
