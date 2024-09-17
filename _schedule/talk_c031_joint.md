@@ -14,9 +14,11 @@ webpage2:
 
 img2: peterk.jpg
 
+bio2: Peter Komar is a Sr. Applied Scientist in the Amazon Braket team where he works on integration of new quantum devices to the Braket service and researches their applications. He holds a PhD in physics from Harvard University where he conducted theoretical research in the field of quantum metrology, searching for practical ways to achieve ultimate measurement accuracy, set by the Heisenberg limit. Peter is passionate about all means of extracting maximal information from limited data.
+
 title: Quantum phases of Rydberg atoms on Shastry - Sutherland lattice
 
-abstract: TBD
+abstract: We explore the phase diagram of Rydberg atoms in a frustrated Shastry-Sutherland lattice. Using the density matrix renormalization group, we map out a rich phase diagram in a three-dimensional parameter space that is naturally realizable in current Rydberg atom platforms. In particular, besides a plethora of classical phases, we show the presence of phases stabilized exclusively by quantum fluctuations. We employ order parameter symmetry analysis to show the presence of novel quantum critical points. Lastly, we tested most of the theoretical predictions experimentally using QuEra’s Rydberg quantum computer on Amazon Braket and found excellent agreement between theoretical predictions and experiments.
 
 day: Wednesday
 time: 1:45 pm ~ 2:35 pm
