@@ -6,7 +6,7 @@ webpage: https://jqi.umd.edu/people/alexey-gorshkov
 
 img: alexeyg.jpg
 
-title: TBD
+title: Analog quantum simulation with trapped ions
 
 abstract: TBD
 
