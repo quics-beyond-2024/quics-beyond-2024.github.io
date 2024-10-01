@@ -27,6 +27,8 @@ layout: home
 
 <big>We have reached the capacity and the registration is closed now. </big>
 
+<big>A list of accepted posters is in the [Poster Page](/posters/). </big>
+
 <big>Have any question about the workshop? Please contact the <a href="#org" >organizers</a>.</big> 
 
 ### Speakers
