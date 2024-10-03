@@ -14,7 +14,7 @@ permalink: /posters/
 
 4. Hybrid Oscillator-Qubit Quantum Processors: Simulating Fermions, Bosons, and Gauge Fields
 
-5. Dynamical phase transition in quantum neural networks with large depth
+5. Dynamical transition in controllable quantum neural networks for supervised learning
 
 6. A Greedy Quantum Route-Generation Algorithm
 
@@ -41,3 +41,7 @@ permalink: /posters/
 17. Robust analog quantum simulators by quantum error-detecting codes
 
 18. Quantum Signal Processing and Quantum Singular Value Transformation on U(N)
+
+19. Quantum Routing and Entangling Capacity through Bottlenecks
+
+20. Criticality-Assisted Transfer in Spin Chains and Wormholes
