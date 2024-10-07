@@ -3,7 +3,7 @@ sequence_id: a031
 
 speaker: Jason Petta
 
-webpage: https://en.wikipedia.org/wiki/Jason_Pettacd
+webpage: https://en.wikipedia.org/wiki/Jason_Petta
 
 title: Silicon-based quantum processors
 
