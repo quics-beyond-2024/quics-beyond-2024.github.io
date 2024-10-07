@@ -8,7 +8,7 @@ img: hosseins.jpg
 
 bio: Hossein Sadeghi Esfahani, PhD is the Director of Quantum Applications and Partnerships at PASQAL Canada Inc. He leads the development of quantum applications and fosters research collaborations across North America. His doctoral research at the University of British Columbia focused on ultracold systems, with a particular emphasis on Rydberg atoms. He is interested in industrial applications of quantum computing and the current challenges in reaching quantum utility.
 
-title: Analog quantum computing with neutral atoms for Pasqal
+title: Analog quantum computing with neutral atoms
 
 abstract: "Analog quantum computing is a powerful paradigm for solving certain computational problems. Unlike digital or gate-model, which relies on discrete gate operations, analog quantum computers use continuous quantum systems such as neutral atoms (Rydberg atoms), trapped ions, or superconducting circuits (quantum annealing) to directly simulate physical processes. These quantum computers offer promising applications in quantum simulation, optimization, and machine learning.
 
